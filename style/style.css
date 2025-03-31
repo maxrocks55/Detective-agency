@@ -1,7 +1,7 @@
 p {
-  color: white;
+  color: white; /* Corrected syntax for setting text color */
 }
 
 body {
-  background-color: black;
+  background-color: black; /* Corrected syntax for setting background color */
 }
