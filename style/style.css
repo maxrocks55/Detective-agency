@@ -1,6 +1,7 @@
 p {
-  text = white
+  color: white;
 }
+
 body {
-  bgcolor = black
+  background-color: black;
 }
